@@ -9,7 +9,7 @@ public class Activation : MonoBehaviour
     [SerializeField] private float detection;
     public ParticleSystem particle;
 
-
+    //for some reason, post processing effects dont work on the fps camera :(
     
    // Start is called before the first frame update
    // get the player
